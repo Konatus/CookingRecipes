@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1539246211 source:c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<math.h>
+	"include/mysql.h"
+	"configuration.h"
+	"menu.h"
+	"leftovers.h"
+	"searchByKeyword.h"
+
+1539076399 c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1135289056 c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\include\mysql_com.h
+
+1130016924 c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\include\mysql_time.h
+
+1130016924 c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\include\mysql_version.h
+	<custom_conf.h>
+
+1130016926 c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\include\typelib.h
+
+1130016926 c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\include\my_list.h
+
+1130016924 c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\include\my_alloc.h
+
+1539210365 c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\configuration.h
+
+1539251334 source:c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\leftovers.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<math.h>
+	"include/mysql.h"
+
+1539227568 c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\menu.h
+
+1539225074 c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\leftovers.h
+
+1539247174 source:c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<math.h>
+	"include/mysql.h"
+
+1539247190 c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\searchbykeyword.h
+
+1539251094 source:c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\searchbykeyword.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"include/mysql.h"
+	"configuration.h"
+
+1539248615 source:c:\users\corentin\desktop\esgi\année 3-2\langage c\projet\cookingrecipes\recipesbyid.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<math.h>
+	"include/mysql.h"
+
+1539251334 source:c:\users\pan0ptik0n\documents\projets\cookingrecipes\leftovers.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<math.h>
+	"include/mysql.h"
+
+1539076399 c:\users\pan0ptik0n\documents\projets\cookingrecipes\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1135289056 c:\users\pan0ptik0n\documents\projets\cookingrecipes\include\mysql_com.h
+
+1130016924 c:\users\pan0ptik0n\documents\projets\cookingrecipes\include\mysql_time.h
+
+1130016924 c:\users\pan0ptik0n\documents\projets\cookingrecipes\include\mysql_version.h
+	<custom_conf.h>
+
+1130016926 c:\users\pan0ptik0n\documents\projets\cookingrecipes\include\typelib.h
+
+1130016926 c:\users\pan0ptik0n\documents\projets\cookingrecipes\include\my_list.h
+
+1130016924 c:\users\pan0ptik0n\documents\projets\cookingrecipes\include\my_alloc.h
+
+1539246211 source:c:\users\pan0ptik0n\documents\projets\cookingrecipes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<math.h>
+	"include/mysql.h"
+	"configuration.h"
+	"menu.h"
+	"leftovers.h"
+	"searchByKeyword.h"
+
+1539210365 c:\users\pan0ptik0n\documents\projets\cookingrecipes\configuration.h
+
+1539227568 c:\users\pan0ptik0n\documents\projets\cookingrecipes\menu.h
+
+1539225074 c:\users\pan0ptik0n\documents\projets\cookingrecipes\leftovers.h
+
+1539247190 c:\users\pan0ptik0n\documents\projets\cookingrecipes\searchbykeyword.h
+
+1539247174 source:c:\users\pan0ptik0n\documents\projets\cookingrecipes\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<math.h>
+	"include/mysql.h"
+
+1539248615 source:c:\users\pan0ptik0n\documents\projets\cookingrecipes\recipesbyid.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<math.h>
+	"include/mysql.h"
+
+1539251094 source:c:\users\pan0ptik0n\documents\projets\cookingrecipes\searchbykeyword.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"include/mysql.h"
+	"configuration.h"
+

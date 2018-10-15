@@ -1,0 +1,3 @@
+
+
+void recipeById(MYSQL*, int);
